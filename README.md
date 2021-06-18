@@ -18,3 +18,5 @@
 
 
 ## T-Tests on Suspension Coils
+- For Manufacturing Lots 1, 2, and all lots combined, we were unable to reject the null hypothesis.  Lot 1 had a p-value of 1.00, Lot 2 had a p-value of .61, and all lots as a whole had a p-value of .06.  Given that these are above our assumed significance level of .05, we could accept that the means of these samples were significantly different from the population mean of 1,500 pounds per square inch.
+- However, the p-value from the t-test of Lot 3 was .042.  Because .042 is less than .05 we could reject the null hypothesis and claim that the sample mean from Lot 3 is significantly different from the population mean of 1,500 pounds per square inch.
