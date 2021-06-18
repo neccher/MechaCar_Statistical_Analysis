@@ -30,4 +30,13 @@
 (Lot 3) ![image](https://user-images.githubusercontent.com/79211628/122601868-8fd7df00-d037-11eb-80cc-42dcc608ed6e.png)
 
 ## Study Design: MechaCar vs Competition
+- What metric or metrics are you going to test?
+  - An interesting metric to test would be the time it takes for the Mecha Car to get from 0 to 60 mph.
+- What is the null hypothesis or alternative hypothesis?
+  - The null hypothesis would be: There is no statistical difference between the time it takes for the Mecha Car to get from 0 to 60 mph and the average time other cars in its class take to get from 0 to 60 mph.
+  - The alternative is: The Mecha Car can get from 0 to 60 mph faster than the average time other cars in its class take to get from 0 to 60 mph.
+- What statistical test would you use to test the hypothesis? And why?
+  - This would be a one sample T-Test as it would be testing a sample mean of Mecha Car's 0 to 60 times vs a population mean of the average time other cars in its class take to get from 0 to 60 mph.
+- What data is needed to run the statistical test?
+  - We would need the population mean of time cars in the Mecha Car's class take to get from 0 to 60 mph.  We would also need the mean of times it takes for the Mecha Car to get from 0 to 60 mph.
 
